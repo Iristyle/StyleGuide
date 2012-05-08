@@ -1,6 +1,6 @@
 ## Code Style
 
----
+--
 
 * Use soft-tabs with a 2 space indent
 * Maximum 80 characters per line
@@ -10,21 +10,21 @@
 
 ## Practices
 
----
+--
 
 * All code should have accompanying tests as documentation
 * Major frameworks / assemblies should have markdown readme in root of repo
 
 ## Project Naming Guidelines
 
----
+--
 
 * Test projects should always end in .Tests as convention to be picked up by
 build process
 
 ## Frameworks
 
----
+--
 
 ### Testing Frameworks
 * [xUnit.Net](http://xunit.codeplex.com/) - Unit testing framework

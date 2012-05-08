@@ -1,6 +1,6 @@
 ## Code Style
 
----
+--
 
 * Use soft-tabs with a 2 space indent
 * Maximum 80 characters per line
@@ -12,7 +12,7 @@ and [JsHint](http://www.jshint.com/)
 
 ## Practices
 
----
+--
 
 * All code should have accompanying tests as documentation
 * Major code blocks should have markdown readme in root of repo
@@ -21,7 +21,7 @@ willy-nilly
 
 ## jQuery Guidlines
 
----
+--
 
 * Prefix jQuery objects with $
 * Use jQuery instead of $ in document ready handler
@@ -42,6 +42,7 @@ jQuery 'div'
 jQuery '.class'
 ```
 * Cache jQuery objects if used more than once (or chain where appropriate)
+
 ```coffeescript
 ## BAD!
 jQuery('#id').css('color:red;')
@@ -54,14 +55,14 @@ jQuery('#id')
 
 ## Project Naming Guidelines
 
----
+--
 
 * Test projects should always end in .Tests as convention to be picked up by
 build process
 
 ## Frameworks
 
----
+--
 
 ### Testing Tools / Frameworks
 * [Mocha](http://visionmedia.github.com/mocha/) - Can run in command line via

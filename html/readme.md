@@ -1,6 +1,6 @@
 ## Code Style
 
----
+--
 
 * Maximum 80 characters per line
 * Markup should be clean, semantic and human readable

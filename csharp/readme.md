@@ -93,6 +93,5 @@ when build frameworks that shouldn't take a specific logging dependency
 * [Microsoft's All-In-One](http://1code.codeplex.com/wikipage?title=All-In-One%20Code%20Framework%20Coding%20Standards&referringTitle=Documentation)
 * [SharpDevelop](http://www.sharpdevelop.net/TechNotes/SharpDevelopCodingStyle03.pdf)
 
-### TODO
-
-* Publish a StyleCop rules file to the repository
+### StyleCop rules file
+* [StyleCop.Settings](https://github.com/EastPoint/StyleGuide/blob/master/csharp/Settings.StyleCop)

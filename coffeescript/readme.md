@@ -85,10 +85,11 @@ browser instances
 
 ### Additional Reference
 
+* [Idiomatic Js](https://github.com/rwldrn/idiomatic.js)
+* [Common CoffeeScript Idioms](http://arcturo.github.com/library/coffeescript/04_idioms.html)
 * [Javascript Style Guides and Beautifiers](http://addyosmani.com/blog/javascript-style-guides-and-beautifiers/)
 * [Node](http://nodeguide.com/style.html)
 * [Styles in Node Community](http://dailyjs.com/2012/01/12/style/)* [Github styleguide](https://github.com/styleguide)
-* [Idiomatic Js](https://github.com/rwldrn/idiomatic.js)
 * [Nerd Kitchen CoffeeScript](http://nerdkitchen.org/blog/coffeescript-style-guide/)
 * [PolarMobile CoffeeScript](https://github.com/polarmobile/coffeescript-style-guide)
 * [CoffeeScript Idioms](http://arcturo.github.com/library/coffeescript/04_idioms.html)
@@ -99,3 +100,4 @@ browser instances
 * [Dojo](http://dojotoolkit.org/community/styleGuide)
 * [Aloha Editor](http://aloha-editor.org/guides/style_guide.html)
 * [Dart](http://www.dartlang.org/articles/style-guide/)
+* [AirBNB Javascript Style Guide](https://github.com/airbnb/javascript)
